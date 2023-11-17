@@ -65,7 +65,7 @@
             </div>
         </div>
     </body>
-    <!-- <script src="../sensora/js/sensora.js"></script> -->
+    <script src="../sensora/js/sensora.js"></script>
     <script>
         // components template
         const BOOK_ITEM = {
@@ -147,7 +147,7 @@
             created() {
                 // get random mangas from the website
                 this.get_random_mangas().then((data) => {
-                   this.about_mangas.manga_infos = data;  // there the data is the mangas
+                    this.about_mangas.manga_infos = data;  // there the data is the mangas
                 });
                 this.fresh_textual();
             },
@@ -216,7 +216,7 @@
                         this.TEXTUAL.textual = textual[this.TEXTUAL.TEXTUAL_];
                         this.TEXTUAL.author = textual[this.TEXTUAL.AUTHOR_];
                         this.TEXTUAL.time = textual[this.TEXTUAL.TIME_];
-                    }).catch((error) => {
+                    }).catch((_) => {
                         console.log("Failed to get textual from server");
                     })
                 }

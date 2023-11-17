@@ -66,8 +66,8 @@
             <div class="login-not-fit">
             </div>
         </div>
-</body>
-    <!-- <script src="../login/js/login.js"></script> -->
+    </body>
+    <script src="../login/js/login.js"></script>
     <script>
         let vue = new Vue({
             el: "#app",

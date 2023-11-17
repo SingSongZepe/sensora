@@ -71,7 +71,7 @@
             </div>
         </div>
     </body>
-    <!-- <script src="../res/reader/js/read.js"></script> -->
+    <script src="../res/reader/js/read.js"></script>
     <script>
         const PAGE_LIST_ITEM = {
             props: ["page_index"],

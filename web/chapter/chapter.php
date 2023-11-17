@@ -83,7 +83,7 @@
             </div>
         </div>
     </body>
-    <!-- <script src="../chapter/js/chapter.js"></script> -->
+    <script src="../chapter/js/chapter.js"></script>
     <script>
         const CHAPTER_ITEM = {
             props: ['chapter'], // Title, Pages
