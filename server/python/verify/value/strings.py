@@ -3,7 +3,7 @@ sslog = 'SingSongLog: '
 
 # send
 FROM_ = 'From'
-SENDER = 'aaaaaa1964027610@163.com'  # worker email
+SENDER = '???@???.com'  # worker email your email
 TO_ = 'To'
 SUBJECT_ = 'Subject'
 SUBJECT = 'Sensora ! Register Verify Code'
@@ -12,5 +12,5 @@ body_format = 'Your Verify Code is: {}'
 
 # basic
 PlAIN_ = 'plain'
-SMTP_SERVER = 'smtp.163.com' 
-SMTP_PASSWORD = 'MHATAXSIGZRALWYQ'
+SMTP_SERVER = 'smtp.???.com' # 
+SMTP_PASSWORD = '???'  # your email auth
