@@ -1,0 +1,70 @@
+
+/* decorator */
+/* ! background */
+.bg-color-tran {
+    background: rgba(255, 255, 255, 0.0);
+}
+.bg-color-default-tran {
+    background: rgba(255, 255, 255, 0.3);
+}
+.bg-color-default-tran2 {
+    background: rgba(255, 255, 255, 0.6);
+}
+.bg-color-default-tran2-5 {
+    background: rgba(255, 255, 255, 0.8);
+}
+.bg-color-default-tran3 {
+    background: rgba(255, 255, 255, 0.9);
+}
+.bg-color-default {
+    background: #f0f0f0;
+}
+.bg-color-red {
+    background: red;
+}
+.bg-color-green {
+    background: green;
+}
+.bg-color-blue {
+    background: blue;
+}
+.bg-lcolor-sider {
+    background-image: linear-gradient(226.64deg,#32c5ff -7.61%,#b620e0 51.53%,#f7b500 101.71%);
+    transition: background-image 1s ease;
+}
+
+/* ! foreground */
+.fg-lcolor-sider {
+    background: linear-gradient(226.64deg,#32c5ff -7.61%,#b620e0 51.53%,#f7b500 101.71%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: color 2s ease;
+}
+.fg-lcolor-sider:hover {
+    color: linear-gradient(226.64deg,#32c5ff -7.61%,#b620e0 51.53%,#f7b500 101.71%);
+}
+.fg-color-default-tran {
+    color: rgba(255, 255, 255, 0.3);
+}
+.fg-color-default-tran2 {
+    color: rgba(255, 255, 255, 0.6);
+}
+.fg-color-default-tran2-5 {
+    color: rgba(255, 255, 255, 0.8);
+}
+.fg-color-default-tran3 {
+    color: rgba(255, 255, 255, 0.9);
+}
+.fg-color-white {
+    color: hsl(0, 100%, 100%);
+}
+
+.fg-color-text-art {
+    color: #ccc; 
+    font-size: 24px;
+    transition: all 0.3s ease-in-out; 
+}
+.fg-color-text-art:hover {
+    color: #333; 
+    transform: scale(1.1);
+}

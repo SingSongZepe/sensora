@@ -1,0 +1,41 @@
+.bg-pic {
+    background-image: url("../img/bg.png");
+}
+.bg-pic-2 {
+    background-image: url("../img/bg_2.jpg");
+}
+.bg-pic-3 {
+    background-image: url("../img/bg_3.jpg");
+}
+.bg-pic-4 {
+    background-image: url("../img/bg_4.jpg");
+}
+.bg-pic-setting {
+    background-size: cover;
+    background-repeat: repeat;
+    backdrop-filter: blur(5px);
+}
+
+
+
+/* for login or register or forget */
+.bg-pic-user {
+    background-image: url("../img/user.png");
+    background-size: cover;
+}
+.bg-pic-password {
+    background-image: url("../img/password.png");
+    background-size: cover;
+}
+.bg-pic-verify {
+    background-image: url("../img/verify.png");
+    background-size: cover;
+}
+.bg-pic-eye {
+    background-image: url("../img/eye.png");
+    background-size: cover;
+}
+.bg-pic-eye-close {
+    background-image: url("../img/eye_close.png");
+    background-size: cover;
+}

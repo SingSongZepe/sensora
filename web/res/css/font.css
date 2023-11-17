@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap");
+
+.font-times {
+    font-family: "Times New Roman", Times, serif;
+}
+.font-arial {
+    font-family: "Arial", Helvetica, sans-serif;
+}
+.font-georgia {
+    font-family: "Georgia", serif;
+}
+.font-verdana {
+    font-family: "Verdana", Geneva, sans-serif;
+}
+.font-tahoma {
+    font-family: "Tahoma", Geneva, sans-serif;
+} 
+.font-agency {
+    font-family: "Agency", sans-serif;
+}
+.font-sora {
+    font-family: 'Sora',sans-serif;
+}
+.font-poppins {
+    font-family: "Poppins", sans-serif;
+}

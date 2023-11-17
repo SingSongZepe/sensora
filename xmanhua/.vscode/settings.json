@@ -1,0 +1,26 @@
+{
+    "cSpell.words": [
+        "chids",
+        "enmap",
+        "mangalist",
+        "mangas",
+        "manhua",
+        "nnreader",
+        "Nums",
+        "Referer",
+        "ridx",
+        "sider",
+        "singsongzepe",
+        "sslog",
+        "sszp",
+        "sszpthread",
+        "sszpthreads",
+        "xmanhua",
+        "chid",
+        "chids"
+    ],
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "git.ignoreLimitWarning": true
+}

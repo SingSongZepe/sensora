@@ -1,0 +1,14 @@
+/* some simple animation */
+
+
+@keyframes animation-color-blink {
+    0% {
+        color: #cccccc77;
+    }
+    50% {
+        color: #333333ff
+    }
+    100% {
+        color: #cccccc77;
+    }
+}
